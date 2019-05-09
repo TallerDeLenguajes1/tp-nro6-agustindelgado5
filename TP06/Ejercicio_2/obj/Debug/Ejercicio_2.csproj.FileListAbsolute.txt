@@ -1,0 +1,5 @@
+C:\Users\Alumno\Documents\Taller\TP06\TP06\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Users\Alumno\Documents\Taller\TP06\TP06\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\Alumno\Documents\Taller\TP06\TP06\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\Alumno\Documents\Taller\TP06\TP06\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\Alumno\Documents\Taller\TP06\TP06\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
